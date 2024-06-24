@@ -49,7 +49,7 @@ The dataset consists of colored images of digits along with their corresponding 
 
     To deactivate the venv :
 
-    ```bash
+    bash```
     deactivate
     ```
 
