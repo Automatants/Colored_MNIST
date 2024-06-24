@@ -35,10 +35,22 @@ The dataset consists of colored images of digits along with their corresponding 
     python -m venv .venv
     ```
 
-    To activate the venv (for Windows): 
+    To activate the venv : 
+
+    Windows :
+    ```bash
+    source .venv/Scripts/activate
+    ```
+    
+    macOS/Linux :
+    bash```
+    source .venv/bin/activate
+    ```
+
+    To deactivate the venv :
 
     ```bash
-    Source .venv venv/Scripts/activate
+    deactivate
     ```
 
     Use the requirements.txt file to install the dependencies :
