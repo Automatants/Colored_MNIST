@@ -43,7 +43,7 @@ The dataset consists of colored images of digits along with their corresponding 
     ```
     
     macOS/Linux :
-    bash```
+    ```bash
     source .venv/bin/activate
     ```
 
